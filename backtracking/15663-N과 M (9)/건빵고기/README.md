@@ -95,6 +95,16 @@ write(str(fibonacci(N)) + "\n")    # 반드시 문자열 형식으로만 출력 
 
 ## 재귀
 
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    return 0;
+}
+```
+
 ---
 
 # Reference
