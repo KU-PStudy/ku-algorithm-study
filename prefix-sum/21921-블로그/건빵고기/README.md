@@ -29,7 +29,7 @@
 ## ***1차원 배열의 누적합 예제***
 
 ```cpp
-int arr[5] = { 1, 2, 3, 4, 5 };
+int arr[10] = { 5, 1, 3, 5, 10, 7, 4, 9, 2, 8 };
 ```
 
 - **1차원 배열의 누적합 공식**
@@ -52,6 +52,8 @@ $$
 \Large
 \overset{ \color{gray} \text{range}(x_{1}, \ x_{2}) }{ \text{sum}[x_{2}] - \text{sum}[x_{1} - 1] }
 $$
+
+![1차원 누적합 예시](./resources/image_001.png)
 
 ---
 
@@ -95,6 +97,8 @@ $$
 }
 $$
 
+![2차원 누적합 예시](./resources/image_002.png)
+
 ---
 
 # Solution
@@ -131,6 +135,8 @@ int arr[10] = { 1, 2, 3, 4, 5, 6, 7, 8 }
 - [YouTube - Two Pointers](https://www.youtube.com/watch?v=QzZ7nmouLTI)
 
 - [AlgoMaster - LettCode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+
+- [tistory - 설명 예제 참고자료](https://hyungjun-950912.tistory.com/218)
 
 ---
 
