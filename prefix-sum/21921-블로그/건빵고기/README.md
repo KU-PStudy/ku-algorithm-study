@@ -91,7 +91,7 @@ $$
 \overset{
 \color{gray} \text{range}(x_{1}, \ y_{1}, \ x_{2}, \ y_{2})
 }{
-\text{sum}[x_{2}][y_{2}] + \text{sum}[x_{1} - 1][y_{1} - 1] - (\text{sum}[x_{1} - 1][y_{2}] + \text{sum}[x_{2}][y_{1} - 1])
+\text{sum}[x_{2}][y_{2}] - \text{sum}[x_{1} - 1][y_{2}] - \text{sum}[x_{2}][y_{1} - 1] + \text{sum}[x_{1} - 1][y_{1} - 1]
 }
 $$
 
