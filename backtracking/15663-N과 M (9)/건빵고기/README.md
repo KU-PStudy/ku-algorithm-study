@@ -2,20 +2,17 @@
 
 ---
 
+- [재귀 (`Recursion`) 이란?](#재귀-recursion-이란)
+    - [팩토리얼 예제](#팩토리얼-예제)
+    - [피보나치 수열 예제](#피보나치-수열-예제)
 - [\[Silver II\] N과 M (9) - 15663](#silver-ii-n과-m--9-)
-    - [재귀 (`Recursion`) 이란?](#재귀-recursion-이란)
-        - [팩토리얼 예제](#팩토리얼-예제)
-        - [피보나치 수열 예제](#피보나치-수열-예제)
-- [Solution](#solution)
     - [재귀](#재귀)
 - [Reference](#reference)
     - [Tags](#tags)
 
 ---
 
-# [\[Silver II\] N과 M (9)](https://www.acmicpc.net/problem/15663)
-
-## 재귀 (`Recursion`) 이란?
+# 재귀 (`Recursion`) 이란?
 
 > 설명 추가 예정...
 
@@ -91,7 +88,7 @@ write(str(fibonacci(N)) + "\n")    # 반드시 문자열 형식으로만 출력 
 
 ---
 
-# Solution
+# [\[Silver II\] N과 M (9)](https://www.acmicpc.net/problem/15663)
 
 ## 재귀
 
